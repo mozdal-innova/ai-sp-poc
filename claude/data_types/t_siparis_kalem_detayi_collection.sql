@@ -1,0 +1,3 @@
+create type "T_SIPARIS_KALEM_DETAYI_COLLECTION" as table of T_SIPARIS_KALEM_DETAYI;
+
+/

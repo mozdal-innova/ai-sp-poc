@@ -1,0 +1,15 @@
+C:\Users\mozdal\Desktop\gemini\ord-core\src\main\java\com\acme\ord\domain\entity\SiparisDetay.java
+C:\Users\mozdal\Desktop\gemini\ord-core\src\main\java\com\acme\ord\domain\repository\SiparisDetayRepository.java
+C:\Users\mozdal\Desktop\gemini\ord-core\src\main\java\com\acme\ord\domain\dto\SiparisIstekFdyDto.java
+C:\Users\mozdal\Desktop\gemini\ord-core\src\main\java\com\acme\ord\app\OrdCoreApplication.java
+C:\Users\mozdal\Desktop\gemini\ord-core\src\main\java\com\acme\ord\domain\repository\SiparisHareketRepository.java
+C:\Users\mozdal\Desktop\gemini\ord-core\src\main\java\com\acme\ord\service\siparis\SiparisService.java
+C:\Users\mozdal\Desktop\gemini\ord-core\src\main\java\com\acme\ord\service\siparis\SiparisServiceImpl.java
+C:\Users\mozdal\Desktop\gemini\ord-core\src\main\java\com\acme\ord\domain\repository\SiparisRepository.java
+C:\Users\mozdal\Desktop\gemini\ord-core\src\main\java\com\acme\ord\domain\dto\SiparisIstekDetayDto.java
+C:\Users\mozdal\Desktop\gemini\ord-core\src\main\java\com\acme\ord\domain\dto\SiparisKalemDetayiDto.java
+C:\Users\mozdal\Desktop\gemini\ord-core\src\main\java\com\acme\ord\domain\dto\SiparisMunferitDto.java
+C:\Users\mozdal\Desktop\gemini\ord-core\src\main\java\com\acme\ord\domain\dto\SiparisCevapDto.java
+C:\Users\mozdal\Desktop\gemini\ord-core\src\main\java\com\acme\ord\domain\entity\Siparis.java
+C:\Users\mozdal\Desktop\gemini\ord-core\src\main\java\com\acme\ord\domain\entity\SiparisHareket.java
+C:\Users\mozdal\Desktop\gemini\ord-core\src\main\java\com\acme\ord\domain\dto\SiparisIstekDto.java

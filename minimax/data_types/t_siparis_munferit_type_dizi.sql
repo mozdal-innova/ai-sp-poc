@@ -1,0 +1,3 @@
+create type "T_SIPARIS_MUNFERIT_TYPE_DIZI" as table of T_SIPARIS_MUNFERIT_TYPE;
+
+/

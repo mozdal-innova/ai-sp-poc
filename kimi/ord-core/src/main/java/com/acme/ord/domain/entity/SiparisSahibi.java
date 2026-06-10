@@ -1,0 +1,76 @@
+package com.acme.ord.domain.entity;
+
+import lombok.Getter;
+import lombok.NoArgsConstructor;
+import lombok.Setter;
+
+import javax.persistence.*;
+import java.math.BigDecimal;
+import java.time.Instant;
+import java.time.LocalDate;
+
+@Entity
+@Table(name = "siparis_sahibi")
+@Getter
+@Setter
+@NoArgsConstructor
+public class SiparisSahibi {
+
+    @Id
+    @GeneratedValue(strategy = GenerationType.SEQUENCE, generator = "seq_siparis_sahibi")
+    @SequenceGenerator(name = "seq_siparis_sahibi", sequenceName = "seq_siparis_sahibi", allocationSize = 1)
+    @Column(name = "id")
+    private Long id;
+
+    @Column(name = "hesap_id")
+    private Long hesapId;
+
+    @Column(name = "musteri_id")
+    private Long musteriId;
+
+    @Column(name = "sirket_id")
+    private Long sirketId;
+
+    @Column(name = "stok_analiz_detay_id")
+    private Long stokAnalizDetayId;
+
+    @Column(name = "siparis_sahibi_tipi_id")
+    private Long siparisSahibiTipiId;
+
+    @Column(name = "transfere_aktarilan_tutar", precision = 20, scale = 2)
+    private BigDecimal transfereAktarilanTutar;
+
+    @Column(name = "kesinti_yapilan_tutar", precision = 20, scale = 2)
+    private BigDecimal kesintiYapilanTutar;
+
+    @Column(name = "nakit_talep_tarihi")
+    private LocalDate nakitTalepTarihi;
+
+    @Column(name = "siparis_toplam_tutari", precision = 20, scale = 2)
+    private BigDecimal siparisToplamTutari;
+
+    @Column(name = "belge_mahsup_tutari", precision = 20, scale = 2)
+    private BigDecimal belgeMahsupTutari;
+
+    @Column(name = "avans_mahsup_tutari", precision = 20, scale = 2)
+    private BigDecimal avansMahsupTutari;
+
+    @Column(name = "nakit_siparis_tutari", precision = 20, scale = 2)
+    private BigDecimal nakitSiparisTutari;
+
+    @Column(name = "kalan_alacak_tutari", precision = 20, scale = 2)
+    private BigDecimal kalanAlacakTutari;
+
+    @Column(name = "tanitim_zamani")
+    private Instant tanitimZamani;
+
+    @Column(name = "tanitan_kullanici_id")
+    private Long tanitanKullaniciId;
+
+    @Column(name = "guncelleme_zamani")
+    private Instant guncellemeZamani;
+
+    @Column(name = "munferit_sms_gonderim_tarihi")
+    private LocalDate munferitSmsGonderimTarihi;
+
+}

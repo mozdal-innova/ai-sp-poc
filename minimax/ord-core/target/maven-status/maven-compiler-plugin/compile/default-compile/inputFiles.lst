@@ -1,0 +1,17 @@
+C:\Users\mozdal\Desktop\anonim\ord-core\src\main\java\com\acme\ord\domain\entity\Hesap.java
+C:\Users\mozdal\Desktop\anonim\ord-core\src\main\java\com\acme\ord\domain\entity\SiparisSahibi.java
+C:\Users\mozdal\Desktop\anonim\ord-core\src\main\java\com\acme\ord\domain\entity\Belge.java
+C:\Users\mozdal\Desktop\anonim\ord-core\src\main\java\com\acme\ord\OrdApplication.java
+C:\Users\mozdal\Desktop\anonim\ord-core\src\main\java\com\acme\ord\domain\repository\SiparisSahibiRepository.java
+C:\Users\mozdal\Desktop\anonim\ord-core\src\main\java\com\acme\ord\domain\dto\SiparisIstekDto.java
+C:\Users\mozdal\Desktop\anonim\ord-core\src\main\java\com\acme\ord\domain\dto\SiparisIstekFdyDto.java
+C:\Users\mozdal\Desktop\anonim\ord-core\src\main\java\com\acme\ord\domain\repository\SiparisHareketRepository.java
+C:\Users\mozdal\Desktop\anonim\ord-core\src\main\java\com\acme\ord\domain\dto\SiparisIstekDetayDto.java
+C:\Users\mozdal\Desktop\anonim\ord-core\src\main\java\com\acme\ord\domain\repository\BelgeRepository.java
+C:\Users\mozdal\Desktop\anonim\ord-core\src\main\java\com\acme\ord\service\siparis\SiparisService.java
+C:\Users\mozdal\Desktop\anonim\ord-core\src\main\java\com\acme\ord\domain\entity\Siparis.java
+C:\Users\mozdal\Desktop\anonim\ord-core\src\main\java\com\acme\ord\domain\dto\SiparisCevapDto.java
+C:\Users\mozdal\Desktop\anonim\ord-core\src\main\java\com\acme\ord\domain\repository\SiparisRepository.java
+C:\Users\mozdal\Desktop\anonim\ord-core\src\main\java\com\acme\ord\domain\repository\HesapRepository.java
+C:\Users\mozdal\Desktop\anonim\ord-core\src\main\java\com\acme\ord\domain\dto\SiparisKalemDetayiDto.java
+C:\Users\mozdal\Desktop\anonim\ord-core\src\main\java\com\acme\ord\domain\entity\SiparisHareket.java
